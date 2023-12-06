@@ -12,7 +12,7 @@ for i in range(1, 32):
 
 # BMC统一登陆账号密码
 login_account = "USERID"
-login_password = "ceni@123456"
+login_password = "*******"
 
 
 # 获取电压&功率
