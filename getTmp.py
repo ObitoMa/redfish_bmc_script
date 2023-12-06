@@ -45,5 +45,3 @@ def get_temperatures(login_host, login_account, login_password):
 
     return environment_temperatures, max_temperature
 
-
-get_temperatures("https://10.254.2.1","USERID","ceni@123456")
